@@ -1,2 +1,5 @@
 polar:
   greeting: "Welcome to the TEST-DATA catalog from the config server</br>From refresh"
+user:
+  language: en 
+  country: US

@@ -1,2 +1,10 @@
 polar:
   greeting: "Welcome to the catalog from the config server"
+user:
+  language: en 
+  country: US
+spring:
+  datasource:
+    username: user
+    password: password
+    url: jdbc:postgresql://localhost:5432/polardb_catalog
